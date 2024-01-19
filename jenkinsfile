@@ -6,25 +6,21 @@ steps {
 echo "build the code"
 }
 }
-stages {
 stage('build') {
 steps {
 echo "build the code"
 }
 }
-stages {
 stage('test') {
 steps {
 echo "build the code"
 }
 }
-stages {
 stage('release') {
 steps {
 echo "build the code"
 }
 }
-stages {
 stage('review') {
 steps {
 echo "build the code"
