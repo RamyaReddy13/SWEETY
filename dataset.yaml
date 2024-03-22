@@ -1,0 +1,6 @@
+names:
+  - licence
+nc: 1
+path: /kaggle/input/car-plate-detection
+train: training/images
+val: training/images
